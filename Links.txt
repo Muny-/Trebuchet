@@ -1,0 +1,47 @@
+/*
+
+== Links ==
+
+Sheet metal thickness
+https://www.unc.edu/~rowlett/units/scales/sheetmetal.html
+
+Base bolts
+http://www.homedepot.com/p/Everbilt-5-16-in-x-4-1-2-in-Zinc-Hex-Bolt-25-Piece-per-Pack-800780/204281530
+
+Base nuts
+http://www.homedepot.com/p/Everbilt-5-16-in-18-tpi-Zinc-Plated-Hex-Nut-100-Piece-per-Box-801740/204274104
+
+Base washers
+http://www.homedepot.com/p/Everbilt-5-16-in-Zinc-Plated-Cut-Washer-100-per-Box-807220/204284539
+
+3/4" Steel Rod
+http://www.homedepot.com/p/Crown-Bolt-3-4-in-x-48-in-Plain-Round-Rod-800427/204331425
+
+5/8" Zinc-plated Steel Rod
+http://www.homedepot.com/p/Everbilt-5-8-in-x-36-in-Zinc-Plated-Round-Rod-802337/204273979
+
+5/8" Steel Rod
+http://www.homedepot.com/p/Everbilt-5-8-in-x-48-in-Plain-Round-Rod-800417/204604770
+
+Wheels
+https://www.amazon.com/NEW-10-AIR-Tires-Wheels/dp/B000J6A4S8
+
+Shaft Collar 5/8"
+https://www.amazon.com/Jeremywell-Collar-Plated-Corrosion-Resistant/dp/B0197MHINI/
+
+5/8" Smooth zinc plated steel rod
+https://www.amazon.com/Stanley-National-Hardware-N179-812-36-Inch/dp/B0029T9ALA/
+
+3/4" ^ 
+https://www.amazon.com/Stanley-National-Hardware-4005BC-Plated/dp/B002CTXW4S/
+
+Shaft Collar 3/4"
+https://www.amazon.com/Jeremywell-Collar-Plated-Corrosion-Resistant/dp/B01990W7B6/
+
+Square flange bearing 3/4"
+https://www.amazon.com/PIECES-UCF204-12-Pillow-Bearing-Self-Alignment/dp/B01IWGK5LC
+
+Two-bolt flange bearing 3/4"
+https://www.amazon.com/PIECES-UCFL204-12-Pillow-Bearing-Self-Alignment/dp/B01IWGP8PU/
+
+*/
